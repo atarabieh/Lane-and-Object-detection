@@ -1,7 +1,7 @@
 # Lane-and-Object-detection
 
-![2lanes](https://media.giphy.com/media/O127dPmDvHHCawKHbY/giphy.gif)
+![2lanes](gifs/2lanes.gif)
 
-![3lanes](https://media.giphy.com/media/mzpVBCZcfCBiRsRPfr/giphy.gif)
+![3lanes](gifs/3lanes.gif)
 
-![traffic](https://media.giphy.com/media/fSFwnyfCg2p8Yq7yds/giphy.gif)
+![traffic](gifs/traffic.gif)
